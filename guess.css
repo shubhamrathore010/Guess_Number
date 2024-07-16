@@ -1,0 +1,43 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+body{
+
+    padding: 0%;
+    margin: 0%;
+    text-align: center;
+    color: white;
+    background-color: #151515;
+}
+nav{
+    
+    padding: 20px;
+    background-color: rgb(235, 236, 237);
+    border-bottom: 1px solid black;
+}
+nav a {
+    padding: 10px;
+    margin: 10px;
+    background-color: rgb(218, 216, 214);
+    text-decoration: none;
+    color: black;
+    border: 1px solid black;
+    border-radius: 4px;
+}
+ #subt {
+    
+    padding: 10px;
+}
+ h1{
+    color: white;
+    background-color: black;
+}
+#wrapper{
+    background-color: #212121b7;
+}
+#wrapper ,h1,p, .lowOrHi {
+    padding: 10px;
+
+}
+
